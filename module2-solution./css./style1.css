@@ -1,4 +1,4 @@
-*{
+  *{
 box-sizing: border-box;
 }
 h1 {
@@ -46,7 +46,7 @@ height: 200px;
 
 }
 #p3{
-  top: 15px;
+  top: 10px;
 width: 80%;
 left: 10%;
 height: 200px;
@@ -57,6 +57,8 @@ height: 200px;
   top: -15px;
   right: 5px;
   height: 80px;
+  background-color: #FF007F;
+
 
 
 }
@@ -65,6 +67,7 @@ height: 200px;
   top: -15px;
   right: 5px;
   height: 80px;
+  background-color: red;
 
 }
 #p13{
@@ -72,6 +75,7 @@ height: 200px;
   top: -15px;
   right: 5px;
   height: 80px;
+  background-color: yellow;
 
 
 }
